@@ -1,8 +1,17 @@
 h1{
-	font-family: 'open sans';
+	/* cushmachine: */
+	font-family: Baskerville;
+	font-size: 48px;
+	color: #000000;
+	letter-spacing: 1.66px;
+	line-height: 130px;
 }
 
-p{
-	color:blue;
-	font-family: "open sans";
+h2{
+	/* Tagline: */
+	font-family: OpenSans-Italic;
+	font-size: 18px;
+	color: #000000;
+	letter-spacing: 0.62px;
+	line-height: 24px;
 }
