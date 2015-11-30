@@ -1,6 +1,6 @@
 h1{
 	/* cushmachine: */
-	font-family: Baskerville;
+	font-family: 'Libre Baskerville', serif;
 	font-size: 48px;
 	color: #000000;
 	letter-spacing: 1.66px;
@@ -10,7 +10,7 @@ h1{
 
 h2{
 	/* Tagline: */
-	font-family: OpenSans-Italic;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	color: #000000;
 	letter-spacing: 0.62px;
