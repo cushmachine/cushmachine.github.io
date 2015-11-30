@@ -1,3 +1,9 @@
 h1{
 	font-family: 'open-sans';
 }
+
+p{
+	color:blue;
+	font-family: arial;
+	font-size: 1em;
+}
