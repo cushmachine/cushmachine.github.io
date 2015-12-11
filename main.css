@@ -1,3 +1,7 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
 h1{
 	/* cushmachine: */
 	font-family: 'Libre Baskerville', serif;
@@ -5,12 +9,12 @@ h1{
 	color: #000000;
 	letter-spacing: 1.66px;
 	line-height: 130px;
-	font-weight: 300;
+	font-weight: 200;
 }
 
 h2{
 	/* Tagline: */
-	font-family: 'Open Sans', sans-serif;
+	
 	font-size: 18px;
 	color: #000000;
 	letter-spacing: 0.62px;
@@ -20,7 +24,6 @@ h2{
 
 a{
 	/* Link: */
-	font-family: OpenSans;
 	font-size: 18px;
 	color: #000000;
 	letter-spacing: 0.62px;
