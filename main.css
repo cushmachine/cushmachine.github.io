@@ -29,7 +29,9 @@ body > .wrap{
 	margin: auto;
 }
 
-.content{
+body > .wrap > .content{
+	display: table-cell;
+	vertical-align: middle;
 
 }
 
