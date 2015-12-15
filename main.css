@@ -24,6 +24,7 @@ body > .wrap > .content{
 	font-family: 'Libre Baskerville', serif;
 	font-size: 24px;
 	text-align: center;
+	margin: 40 auto;
 }
 
 #cover-photo{
@@ -32,6 +33,8 @@ body > .wrap > .content{
 
 .navlink{
 	font-size: 18px;
+	dislpay: inline-block;
+	margin: 30;
 }
 
 
