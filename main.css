@@ -12,9 +12,9 @@ body > .wrap{
 body > .wrap > .content{
 	display: table-cell;
 	vertical-align: middle;
+}
 
 #title{
-	/* cushmachine: */
 	font-size: 48px;
 	font-weight: lighter;
 	text-align: center;
