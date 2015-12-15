@@ -2,26 +2,6 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-h1{
-	/* cushmachine: */
-	font-family: 'Open Sans', serif;
-	font-size: 48px;
-	font-weight: lighter;
-	text-align: center;
-}
-
-h2{
-	/* Tagline: */
-	font-size: 24px;
-	line-height: 12px;
-	text-align: center;
-}
-
-a{
-	/* Link: */
-	font-size: 18px;
-}
-
 body > .wrap{
 	display: table;
 	width: 430px;
@@ -33,12 +13,28 @@ body > .wrap > .content{
 	display: table-cell;
 	vertical-align: middle;
 
+#title{
+	/* cushmachine: */
+	font-size: 48px;
+	font-weight: lighter;
+	text-align: center;
 }
 
-#header{
-
+#tagline{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 24px;
+	text-align: center;
 }
 
 #cover-photo{
+	margin: auto;
+}
+
+.navlink{
+	font-size: 18px;
+}
+
 
 }
+
+
