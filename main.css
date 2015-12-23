@@ -33,7 +33,7 @@ body > .wrap > .content{
 
 .navlink{
 	font-size: 18px;
-	dislpay: inline;
+	dislpay: inline-block;
 	margin: 30;
 }
 
