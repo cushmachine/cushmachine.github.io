@@ -30,6 +30,9 @@ body > .wrap > .content{
 
 #cover-photo{
 	margin: auto;
+}
+
+#cover-photo > img{
 	height: 200px;
 	width: 200px;
 }
