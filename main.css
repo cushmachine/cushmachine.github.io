@@ -45,18 +45,18 @@ body > .wrap > .content{
 
 }
 
-.navlink:hover{
+a:hover{
 	color:#D3D3D3;
 	text-decoration: none;
 }
 
-.navlink:visited{
+a:visited{
 	color:#D3D3D3;
 	text-decoration: none;
 }
 
 .social-link{
-	margin: 15px;
+	margin: 25px;
 	height: 24px;
 	width: 24px;
 }
