@@ -30,6 +30,7 @@ body > .wrap > .content{
 
 #cover-photo{
 	margin: auto;
+	text-align: center;
 }
 
 #cover-photo > img{
@@ -40,6 +41,7 @@ body > .wrap > .content{
 
 .navlink-container{
 	text-align: center;
+	width: 600px;
 }
 
 .navlink{
