@@ -47,7 +47,12 @@ body > .wrap > .content{
 
 .navlink:hover{
 	color:#D3D3D3;
-	text-decoration: underline;
+	text-decoration: none;
+}
+
+.navlink:visited{
+	color:#D3D3D3;
+	text-decoration: none;
 }
 
 .social-link{
