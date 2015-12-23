@@ -41,8 +41,12 @@ body > .wrap > .content{
 	text-align: center;
 	display: inline-block;
 	margin: 30px;
-	text-decoration: none;
+	
 
+}
+
+.navlink a{
+	text-decoration: none;
 }
 
 a:hover{
