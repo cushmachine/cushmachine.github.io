@@ -30,6 +30,8 @@ body > .wrap > .content{
 
 #cover-photo{
 	margin: auto;
+	height: 300;
+	width: 300;
 }
 
 .navlink-container{
