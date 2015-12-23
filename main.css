@@ -41,13 +41,15 @@ body > .wrap > .content{
 	text-align: center;
 	display: inline-block;
 	margin: 30px;
-	color: purple;
+	color: yellow;
 
 
 }
 
 .social-link{
 	margin: 15px;
+	height: 30px;
+	width: 30px;
 }
 
 
