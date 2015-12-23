@@ -31,8 +31,13 @@ body > .wrap > .content{
 	margin: auto;
 }
 
+#navlink-container{
+	text-align: center;
+}
+
 .navlink{
 	font-size: 18px;
+	text-align: center;
 	display: inline-block;
 	margin: 0px 30px;
 	color: red;
