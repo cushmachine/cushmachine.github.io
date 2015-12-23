@@ -33,8 +33,9 @@ body > .wrap > .content{
 
 .navlink{
 	font-size: 18px;
-	dislpay: inline-block;
+	display: inline-block;
 	margin: 30;
+	color: red;
 }
 
 
