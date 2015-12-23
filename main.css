@@ -44,12 +44,11 @@ body > .wrap > .content{
 	display: inline-block;
 	margin: 30px;
 	
-
 }
 
 a{
 	text-decoration: none;
-	color: black;
+	color: orange;
 }
 
 a:hover{
