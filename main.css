@@ -18,13 +18,14 @@ body > .wrap > .content{
 	font-size: 48px;
 	font-weight: lighter;
 	text-align: center;
+	margin: 25px auto;
 }
 
 #tagline{
 	font-size: 24px;
 	font-style: italic;
 	text-align: center;
-	margin: 100px auto;
+	margin: 25px auto;
 }
 
 #cover-photo{
@@ -39,7 +40,7 @@ body > .wrap > .content{
 	font-size: 18px;
 	text-align: center;
 	display: inline-block;
-	margin: 0px 30px;
+	margin: 50px 30px;
 	color: red;
 }
 
