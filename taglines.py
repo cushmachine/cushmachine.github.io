@@ -1,8 +1,7 @@
-
 import random
 
 #Pulls in text-formatted list of taglines
-with open ("tagline-list.txt","r") as myfile:
+with open ("taglines-list.txt","r") as myfile:
 	tagline_list=myfile.readlines()
 
 #Captures the length of the list of taglines, to be used later in the random number generator
