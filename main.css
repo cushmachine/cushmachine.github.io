@@ -1,6 +1,7 @@
 body{
 	font-family: 'Open Sans', sans-serif;
-	background-color: #000000
+	font-color: #ffffff;
+	background-color: #000000;
 }
 
 body > .wrap{
